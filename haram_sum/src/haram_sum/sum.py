@@ -1,4 +1,4 @@
-def sum():
-    print("15+12")
-    return 15 + 12
+def sum(a,b):
+    print("a+b")
+
 
